@@ -1,5 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https:/sima1177.io)
 
+[![An image of @sima1177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sima1177)](https://holopin.io/@sima1177)
+
 <h1 align="center">Hi 👋, I'm Sephali Mohapatra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
